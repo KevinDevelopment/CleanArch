@@ -1,3 +1,3 @@
-### Projeto usando clean architeture para estudo
+## Projeto usando clean architeture para estudo
 
-## projeto para estudo, usando arquitetura limpa, aplicando alguns conceitos como repository patterns, use cases, DTOs.
+### projeto para estudo, usando arquitetura limpa, aplicando alguns conceitos como repository patterns, use cases, DTOs.
